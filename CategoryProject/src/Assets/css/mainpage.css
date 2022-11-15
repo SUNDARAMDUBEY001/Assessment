@@ -1,0 +1,54 @@
+.main-page {
+  padding-top: 4%;
+  padding-bottom: 20%;
+}
+
+.dropdown-data {
+  margin-left: 4%;
+  padding-left: 10px;
+  margin-right: 4%;
+}
+
+.head-title {
+  margin-left: 7%;
+  padding: 1%;
+}
+
+p {
+  font-size: 20px;
+}
+
+.category-data {
+  /* border: 1px solid rgba(0, 0, 0, 0.125); */
+  border-radius: 3px;
+  margin-left: 4%;
+  margin-right: 4%;
+  margin-bottom: 10%;
+  padding-bottom: 3%;
+  padding-left: 3%;
+  padding-bottom: 3%;
+}
+
+.data {
+  padding: 5%;
+}
+
+.value-heading {
+  padding-top: 3%;
+  padding-left: 35%;
+}
+
+.category-image-size {
+  width: 400px;
+  height: 250px;
+}
+
+.data-part {
+  float: left;
+  width: 55%;
+}
+
+.image-part {
+  float: right;
+  width: 40%;
+}
